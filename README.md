@@ -3,6 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:gevorg.gasparyan.dev@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
