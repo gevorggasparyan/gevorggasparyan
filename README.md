@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gevorg!</h1>
+r<h1 align="center">Hi 👋, I'm Gevorg!</h1>
 <h3 align="center">A  backend developer with 5+ years of experience!</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+<p align="center">   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <!-- Django -->
@@ -82,6 +83,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
-
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorggasparyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
