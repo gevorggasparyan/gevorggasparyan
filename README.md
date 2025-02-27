@@ -1,4 +1,4 @@
-r<h1 align="center">Hi 👋, I'm Gevorg!</h1>
+<h1 align="center">Hi 👋, I'm Gevorg!</h1>
 <h3 align="center">A  backend developer with 5+ years of experience!</h3>
 
 <h3 align="center">Languages and Tools:</h3>
