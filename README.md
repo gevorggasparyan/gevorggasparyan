@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gevorg!</h1>
 <h3 align="center">A  backend developer with 5+ years of experience!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:gevorg.gasparyan.dev@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40"/>
-  </a>
-</p>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -90,3 +82,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorggasparyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
