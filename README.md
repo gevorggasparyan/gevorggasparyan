@@ -1,5 +1,52 @@
 <h1 align="center">Hi 👋, I'm Gevorg!</h1>
-<h3 align="center">A  backend developer with 5+ years of experience!</h3>
+<h3 align="center">🚀  Full Stack (Python, Node.js) Developer</h3>
+
+💡 Passionate full-stack developer with 5+ years of experience in Node.js, Nest.js, Express.js, Hapi.js, and modern JavaScript frameworks like React.js, Vue.js, and Next.js. Skilled in designing and optimizing RESTful APIs, GraphQL, and working with relational (MySQL, PostgreSQL, SQLite) and NoSQL (MongoDB, Redis) databases.
+
+
+🔹 Strong background in asynchronous programming, event-driven architecture, and DevOps (Docker, AWS, GitLab CI/CD, Nginx, Apache).
+
+🔹 Experienced in third-party API integrations (Stripe, PayPal, Twilio, OpenAI).
+
+🔹 Advocates for clean code, unit testing (Jest), and SOLID principles to build scalable, maintainable applications.
+
+🔹 Enthusiastic about problem-solving, performance optimization, and security (JWT, OAuth, MFA).
+
+
+📌 Tech Stack:
+
+Backend: Node.js, Nest.js, Express.js, Hapi.js, GraphQL
+
+Frontend: React.js, Vue.js, Next.js, Nuxt.js, Redux, Apollo Client
+
+Databases: MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, Neo4J, RabbitMQ
+
+DevOps & Tools: Docker, AWS Lambda, Nginx, GitLab CI/CD, Apache, Vagrant
+
+APIs & Integrations: OpenAI (ChatGPT), Stripe, PayPal, Twilio, Chrome API
+
+
+💼 Notable Projects:
+
+🔹 Kodeops – AI-powered workflow automation with OpenAI and Git integrations.
+
+🔹 ToScan Extension – Chrome extension for automated compliance scanning.
+
+🔹 EzyTask – Serverless AWS-based productivity app.
+
+🔹 Sea Level – SaaS platform for monitoring MAP violations on Amazon, eBay, and Walmart.
+
+🔹 ComplianAI – AI-driven security compliance solution with MFA, QR authentication, and AI-powered document analysis.
+
+🔹 Field Stack – Cloud-based retail automation using GraphQL and Neo4J.
+
+🔹 IPlanner – 2D/3D modeling tool for construction planning.
+
+
+📫 Let’s Connect!
+
+I’m always eager to contribute to open-source projects, explore new tech, and collaborate with like-minded developers. Feel free to reach out!
+
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
