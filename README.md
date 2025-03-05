@@ -43,7 +43,7 @@ APIs & Integrations: OpenAI (ChatGPT), Stripe, PayPal, Twilio, Chrome API
 🔹 IPlanner – 2D/3D modeling tool for construction planning.
 
 
-📫 Let’s Connect!
+📫 Let’s Connect! gevorg.gasparyan.up@gmail.com
 
 I’m always eager to contribute to open-source projects, explore new tech, and collaborate with like-minded developers. Feel free to reach out!
 
